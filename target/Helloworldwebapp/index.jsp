@@ -1,7 +1,7 @@
 <html>
 <body>
-	<h1>Hello World Source Master</h1>
-	<h2> This is a Test Source Master page for demonstrating CI and CD with Continuous Integration</h2>
+	<h1>Hello World Target Master</h1>
+	<h2> This is a Test Target Master page for demonstrating CI and CD with Continuous Integration</h2>
 <form>
 	First name:<br>
 	 	<input type="text" name="firstname"><br>
